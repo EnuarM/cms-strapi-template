@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_featuredCategory_featured3s",
+  "info": {
+    "displayName": "Featured 3"
+  },
+  "options": {},
+  "attributes": {
+    "href": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

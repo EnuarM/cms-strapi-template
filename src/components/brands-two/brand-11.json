@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_brands_two_brand_11s",
+  "info": {
+    "displayName": "Brand 11"
+  },
+  "options": {},
+  "attributes": {
+    "href": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

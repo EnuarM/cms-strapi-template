@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_banner_images_banner_image_3s",
+  "info": {
+    "displayName": "Banner image 3"
+  },
+  "options": {},
+  "attributes": {
+    "imgUrl": {
+      "type": "string"
+    }
+  }
+}

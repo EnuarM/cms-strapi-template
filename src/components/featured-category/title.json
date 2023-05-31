@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_featuredCategory_featuredCategories",
+  "info": {
+    "displayName": "Title"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

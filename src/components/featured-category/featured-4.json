@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_featuredCategory_featured4s",
+  "info": {
+    "displayName": "Featured 4"
+  },
+  "options": {},
+  "attributes": {
+    "href": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

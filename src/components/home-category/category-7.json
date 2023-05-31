@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_home_category_category_7s",
+  "info": {
+    "displayName": "Category 7"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_homeCategory_homeCategories",
+  "info": {
+    "displayName": "Title"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_brandList_brandLists",
+  "info": {
+    "displayName": "Title"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

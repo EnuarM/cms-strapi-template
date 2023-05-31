@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_brand_list_brand_15s",
+  "info": {
+    "displayName": "Brand 15"
+  },
+  "options": {},
+  "attributes": {
+    "href": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

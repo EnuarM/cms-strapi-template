@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_brand_list_brand_21s",
+  "info": {
+    "displayName": "Brand 21"
+  },
+  "options": {},
+  "attributes": {
+    "href": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

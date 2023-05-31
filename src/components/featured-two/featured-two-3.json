@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_featured_two_featured_two_3s",
+  "info": {
+    "displayName": "featured two 3"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    }
+  }
+}

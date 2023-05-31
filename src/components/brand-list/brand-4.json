@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_brand_list_brand_4s",
+  "info": {
+    "displayName": "Brand 4"
+  },
+  "options": {},
+  "attributes": {
+    "href": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}
