@@ -32,16 +32,6 @@
       "repeatable": true,
       "component": "banner-images.banner-image-1"
     },
-    "Brandss": {
-      "type": "component",
-      "repeatable": false,
-      "component": "brand-list.title"
-    },
-    "BrandList": {
-      "type": "component",
-      "repeatable": true,
-      "component": "brand-list.brand"
-    },
     "BrandsTwo": {
       "type": "component",
       "repeatable": true,
