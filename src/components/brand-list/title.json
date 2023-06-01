@@ -1,12 +1,18 @@
 {
   "collectionName": "components_brandList_brandLists",
   "info": {
-    "displayName": "Title"
+    "displayName": "Title",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "title": {
       "type": "string"
+    },
+    "BrandItem": {
+      "type": "component",
+      "repeatable": true,
+      "component": "brand-list.brand"
     }
   }
 }

@@ -1,12 +1,18 @@
 {
   "collectionName": "components_homeCategory_homeCategories",
   "info": {
-    "displayName": "Title"
+    "displayName": "Title",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "title": {
       "type": "string"
+    },
+    "Category": {
+      "type": "component",
+      "repeatable": true,
+      "component": "home-category.category-1"
     }
   }
 }

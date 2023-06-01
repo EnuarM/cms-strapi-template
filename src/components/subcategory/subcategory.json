@@ -1,17 +1,15 @@
 {
-  "collectionName": "components_home_category_categorys",
+  "collectionName": "components_subcategory_subcategories",
   "info": {
-    "displayName": "Category",
-    "description": ""
+    "displayName": "Subcategory"
   },
   "options": {},
   "attributes": {
     "name": {
       "type": "string",
-      "required": true,
-      "minLength": 4
+      "required": true
     },
-    "imageUrl": {
+    "imgUrl": {
       "type": "string",
       "required": true
     },

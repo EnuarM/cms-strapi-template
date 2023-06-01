@@ -1,0 +1,66 @@
+{
+  "kind": "collectionType",
+  "collectionName": "homes",
+  "info": {
+    "singularName": "home",
+    "pluralName": "homes",
+    "displayName": "Home",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Logo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "logo.logo"
+    },
+    "MiniInfoBanner": {
+      "type": "component",
+      "repeatable": false,
+      "component": "mini-info-banner.mini-info-banner"
+    },
+    "Categories": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home-category.title"
+    },
+    "BannerImages": {
+      "type": "component",
+      "repeatable": true,
+      "component": "banner-images.banner-image-1"
+    },
+    "Brandss": {
+      "type": "component",
+      "repeatable": false,
+      "component": "brand-list.title"
+    },
+    "BrandList": {
+      "type": "component",
+      "repeatable": true,
+      "component": "brand-list.brand"
+    },
+    "BrandsTwo": {
+      "type": "component",
+      "repeatable": true,
+      "component": "brands-two.brand-two"
+    },
+    "Featured": {
+      "type": "component",
+      "repeatable": false,
+      "component": "featured-category.title"
+    },
+    "PromotionalCard": {
+      "type": "component",
+      "repeatable": false,
+      "component": "promotional-card.promotional-card"
+    },
+    "Brands": {
+      "type": "component",
+      "repeatable": false,
+      "component": "brand-list.title"
+    }
+  }
+}
