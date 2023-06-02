@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_featuredCategory_featuredCategories",
+  "info": {
+    "displayName": "Title",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "FeaturedCategory": {
+      "type": "component",
+      "repeatable": true,
+      "component": "featured-category.featured"
+    }
+  }
+}

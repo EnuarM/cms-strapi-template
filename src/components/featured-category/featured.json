@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_featuredCategory_featureds",
+  "info": {
+    "displayName": "Featured"
+  },
+  "options": {},
+  "attributes": {
+    "href": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

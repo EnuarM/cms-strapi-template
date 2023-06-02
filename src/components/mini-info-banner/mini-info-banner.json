@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_mini_info_banner_mini_info_banners",
+  "info": {
+    "displayName": "miniInfoBanner"
+  },
+  "options": {},
+  "attributes": {
+    "miniInfoBanner": {
+      "type": "string"
+    }
+  }
+}

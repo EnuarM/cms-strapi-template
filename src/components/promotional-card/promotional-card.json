@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_promotional_card_promotional_cards",
+  "info": {
+    "displayName": "promotional card"
+  },
+  "options": {},
+  "attributes": {
+    "imageUrl": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
