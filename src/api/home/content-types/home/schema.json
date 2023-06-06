@@ -46,6 +46,9 @@
       "type": "component",
       "repeatable": false,
       "component": "brands.title"
+    },
+    "Ambiente": {
+      "type": "string"
     }
   }
 }
