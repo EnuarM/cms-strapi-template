@@ -8,11 +8,6 @@
   "attributes": {
     "title": {
       "type": "string"
-    },
-    "Category": {
-      "type": "component",
-      "repeatable": true,
-      "component": "home-category.category-1"
     }
   }
 }

@@ -22,33 +22,28 @@
       "repeatable": false,
       "component": "mini-info-banner.mini-info-banner"
     },
-    "Categories": {
-      "type": "component",
-      "repeatable": false,
-      "component": "home-category.title"
-    },
     "BannerImages": {
       "type": "component",
       "repeatable": true,
       "component": "banner-images.banner-image-1"
-    },
-    "Featured": {
-      "type": "component",
-      "repeatable": false,
-      "component": "featured-category.title"
     },
     "PromotionalCard": {
       "type": "component",
       "repeatable": false,
       "component": "promotional-card.promotional-card"
     },
-    "Brands": {
+    "Ambiente": {
+      "type": "string"
+    },
+    "BrandsTitle": {
       "type": "component",
       "repeatable": false,
       "component": "brands.title"
     },
-    "Ambiente": {
-      "type": "string"
+    "Brands": {
+      "type": "component",
+      "repeatable": true,
+      "component": "brands.brand"
     }
   }
 }
