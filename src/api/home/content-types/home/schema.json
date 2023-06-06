@@ -32,11 +32,6 @@
       "repeatable": true,
       "component": "banner-images.banner-image-1"
     },
-    "BrandsTwo": {
-      "type": "component",
-      "repeatable": true,
-      "component": "brands-two.brand-two"
-    },
     "Featured": {
       "type": "component",
       "repeatable": false,
@@ -50,7 +45,7 @@
     "Brands": {
       "type": "component",
       "repeatable": false,
-      "component": "brand-list.title"
+      "component": "brands.title"
     }
   }
 }

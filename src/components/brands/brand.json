@@ -1,17 +1,18 @@
 {
-  "collectionName": "components_brand_list_brands",
+  "collectionName": "components_brands_brands",
   "info": {
-    "displayName": "Brand"
+    "displayName": "brand",
+    "description": ""
   },
   "options": {},
   "attributes": {
+    "name": {
+      "type": "string"
+    },
     "href": {
       "type": "string"
     },
     "imageUrl": {
-      "type": "string"
-    },
-    "name": {
       "type": "string"
     }
   }
