@@ -1,12 +1,15 @@
 {
-  "collectionName": "components_banner_images_banner_image_1s",
+  "collectionName": "components_banner_images_banner_images",
   "info": {
     "displayName": "Banner image",
     "description": ""
   },
   "options": {},
   "attributes": {
-    "imgUrl": {
+    "ImgUrl": {
+      "type": "string"
+    },
+    "Titulo": {
       "type": "string"
     }
   }

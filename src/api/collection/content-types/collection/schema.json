@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "collections",
+  "info": {
+    "singularName": "collection",
+    "pluralName": "collections",
+    "displayName": "Collection",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "CollectionId": {
+      "type": "integer",
+      "required": true
+    },
+    "Title": {
+      "type": "string"
+    },
+    "Ruta": {
+      "type": "enumeration",
+      "enum": [
+        "home",
+        "promotion"
+      ],
+      "required": true
+    }
+  }
+}

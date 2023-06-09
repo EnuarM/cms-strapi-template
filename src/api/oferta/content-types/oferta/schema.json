@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "ofertas",
+  "info": {
+    "singularName": "oferta",
+    "pluralName": "ofertas",
+    "displayName": "Oferta"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "PromotionalCard": {
+      "type": "component",
+      "repeatable": true,
+      "component": "promotional-card.promotional-card"
+    }
+  }
+}

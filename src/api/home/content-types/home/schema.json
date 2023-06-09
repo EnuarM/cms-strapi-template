@@ -1,5 +1,5 @@
 {
-  "kind": "collectionType",
+  "kind": "singleType",
   "collectionName": "homes",
   "info": {
     "singularName": "home",
@@ -15,7 +15,8 @@
     "Logo": {
       "type": "component",
       "repeatable": false,
-      "component": "logo.logo"
+      "component": "logo.logo",
+      "required": true
     },
     "MiniInfoBanner": {
       "type": "component",
@@ -32,18 +33,15 @@
       "repeatable": false,
       "component": "promotional-card.promotional-card"
     },
-    "Ambiente": {
-      "type": "string"
-    },
     "BrandsTitle": {
       "type": "component",
-      "repeatable": false,
-      "component": "brands.title"
+      "repeatable": true,
+      "component": "title.title"
     },
-    "Brands": {
+    "CategoriesTitle": {
       "type": "component",
       "repeatable": true,
-      "component": "brands.brand"
+      "component": "title.title"
     }
   }
 }

@@ -1,12 +1,18 @@
 {
   "collectionName": "components_mini_info_banner_mini_info_banners",
   "info": {
-    "displayName": "miniInfoBanner"
+    "displayName": "miniInfoBanner",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "miniInfoBanner": {
+    "MiniInfoBanner": {
       "type": "string"
+    },
+    "Active": {
+      "type": "boolean",
+      "default": true,
+      "required": true
     }
   }
 }

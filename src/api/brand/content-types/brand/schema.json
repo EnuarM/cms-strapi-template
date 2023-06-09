@@ -1,10 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "subcategories",
+  "collectionName": "brands",
   "info": {
-    "singularName": "subcategory",
-    "pluralName": "subcategories",
-    "displayName": "Subcategory",
+    "singularName": "brand",
+    "pluralName": "brands",
+    "displayName": "Brand",
     "description": ""
   },
   "options": {
@@ -18,7 +18,7 @@
     "Href": {
       "type": "string"
     },
-    "Value": {
+    "ImageUrl": {
       "type": "string"
     },
     "Active": {

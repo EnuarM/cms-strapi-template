@@ -1,12 +1,14 @@
 {
   "collectionName": "components_logo_logos",
   "info": {
-    "displayName": "Logo"
+    "displayName": "Logo",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "logo": {
-      "type": "string"
+    "Logo": {
+      "type": "string",
+      "required": true
     }
   }
 }
