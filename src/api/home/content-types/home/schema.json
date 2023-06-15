@@ -21,27 +21,32 @@
     "MiniInfoBanner": {
       "type": "component",
       "repeatable": false,
-      "component": "mini-info-banner.mini-info-banner"
+      "component": "mini-info-banner.mini-info-banner",
+      "required": true
     },
     "BannerImages": {
       "type": "component",
       "repeatable": true,
-      "component": "banner-images.banner-image-1"
+      "component": "banner-images.banner-image-1",
+      "required": true
     },
     "PromotionalCard": {
       "type": "component",
       "repeatable": false,
-      "component": "promotional-card.promotional-card"
+      "component": "promotional-card.promotional-card",
+      "required": true
     },
     "BrandsTitle": {
       "type": "component",
       "repeatable": true,
-      "component": "title.title"
+      "component": "title.title",
+      "required": true
     },
     "CategoriesTitle": {
       "type": "component",
       "repeatable": true,
-      "component": "title.title"
+      "component": "title.title",
+      "required": true
     }
   }
 }

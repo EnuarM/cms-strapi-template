@@ -4,7 +4,8 @@
   "info": {
     "singularName": "oferta",
     "pluralName": "ofertas",
-    "displayName": "Oferta"
+    "displayName": "Oferta",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -14,7 +15,8 @@
     "PromotionalCard": {
       "type": "component",
       "repeatable": true,
-      "component": "promotional-card.promotional-card"
+      "component": "promotional-card.promotional-card",
+      "required": true
     }
   }
 }

@@ -13,13 +13,16 @@
   "pluginOptions": {},
   "attributes": {
     "Name": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "Href": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
-    "Value": {
-      "type": "string"
+    "ImageUrl": {
+      "type": "string",
+      "required": true
     },
     "Active": {
       "type": "boolean",
