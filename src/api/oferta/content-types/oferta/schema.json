@@ -14,7 +14,7 @@
   "attributes": {
     "PromotionalCard": {
       "type": "component",
-      "repeatable": true,
+      "repeatable": false,
       "component": "promotional-card.promotional-card",
       "required": true
     }

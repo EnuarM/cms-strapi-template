@@ -38,13 +38,13 @@
     },
     "BrandsTitle": {
       "type": "component",
-      "repeatable": true,
+      "repeatable": false,
       "component": "title.title",
       "required": true
     },
     "CategoriesTitle": {
       "type": "component",
-      "repeatable": true,
+      "repeatable": false,
       "component": "title.title",
       "required": true
     }

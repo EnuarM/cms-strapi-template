@@ -8,11 +8,6 @@
   "attributes": {
     "MiniInfoBanner": {
       "type": "string"
-    },
-    "Active": {
-      "type": "boolean",
-      "default": true,
-      "required": true
     }
   }
 }
