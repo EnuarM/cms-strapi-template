@@ -47,6 +47,11 @@
       "repeatable": false,
       "component": "title.title",
       "required": true
+    },
+    "FeaturedCategories": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::category.category"
     }
   }
 }
